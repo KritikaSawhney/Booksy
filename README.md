@@ -102,8 +102,9 @@ Built with Vite for lightning-fast development.
 ## 🤝 Author
 
 Developer: Kritika Sawhney
+Gmail: kritikasawhney1010@gmail.com
 
 ## ⭐ Show Some ❤️
 If you found this useful or inspiring, please give a ⭐ to the repo and share it!
 
-_"Booksy isn't just a book app. It's a community, built to make knowledge stick and spark joy."
+"Booksy isn't just a book website. It's a community, built to make knowledge stick and spark joy."
