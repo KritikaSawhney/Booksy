@@ -45,7 +45,7 @@ With smooth micro-interactions, animated transitions, and gamified review flows,
 - Cursor-following animated trail
 - Dynamic charts and heatmaps for activity
 - Slide-in/scroll reveal transitions for every component
-- Automated image optimization via Cloudinary for fast loads <br?
+- Automated image optimization via Cloudinary for fast loads <br>
 ![Alt Text](./images%20for%20booksy/collections.png) <br> 
 
 ## 🔧 **Tech Stack**
@@ -101,7 +101,7 @@ Built with Vite for lightning-fast development.
 
 ## 🤝 Author
 
-Developer: Kritika Sawhney
+Developer: Kritika Sawhney <br> 
 Gmail: kritikasawhney1010@gmail.com
 
 ## ⭐ Show Some ❤️
