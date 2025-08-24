@@ -17,8 +17,7 @@ With smooth micro-interactions, animated transitions, and gamified review flows,
 - Product reviews, ratings, and search/filter functionality
 - Secure checkout with Stripe, Razorpay, and Cash on Delivery
 - Order tracking and inventory management
-
-![Alt Text](./images%20for%20booksy/bookadd) <br> 
+![Alt Text](./images%20for%20booksy/bookadd.png) <br> 
 
 ### 📊 Analytics & Insights
 - Admin analytics dashboard for sales, orders, and user activity
