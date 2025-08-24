@@ -1,6 +1,6 @@
-# 📚 Booksy: Your Smart Book Shopping & Community Hub
+# 📚 Booksy: Smart Book Shopping & Community Hub
 ### Intelligent, Immersive, and Interactive Book Discovery and Discussion Platform.
-![Booksy Main](./images-for-readme/main.png)
+![Alt Text](./images%20for%20readme/dashboard.png) <br> 
 
 ## ✨ **Outline**
 
@@ -18,15 +18,19 @@ With smooth micro-interactions, animated transitions, and gamified review flows,
 - Secure checkout with Stripe, Razorpay, and Cash on Delivery
 - Order tracking and inventory management
 
+![Alt Text](./images%20for%20readme/bookadd) <br> 
+
 ### 📊 Analytics & Insights
 - Admin analytics dashboard for sales, orders, and user activity
 - Interactive charts for sales, orders, and user engagement
 - Completion percentage, daily goals, and streak counters
+![Alt Text](./images%20for%20readme/list.png) <br> 
 
 ### 💬 Community & Real-Time Chat
 - Join chat rooms to discuss books and connect with readers
 - Real-time communication powered by **Socket.io** (WebSocket protocol)
 - Email and toast notifications for instant updates
+![Alt Text](./images%20for%20readme/chat.png) <br> 
 
 ### 👤 User Experience & Accessibility
 - User authentication, profile management, and secure JWT login
@@ -34,6 +38,7 @@ With smooth micro-interactions, animated transitions, and gamified review flows,
 - Fully integrated dark/light mode
 - Semantic HTML and keyboard-accessible flows
 - Accessibility enhancements
+![Alt Text](./images%20for%20readme/dashboard.png) <br> 
 
 ### 🌈 Visual Details & Performance
 - Flip animations for product cards
@@ -42,6 +47,7 @@ With smooth micro-interactions, animated transitions, and gamified review flows,
 - Dynamic charts and heatmaps for activity
 - Slide-in/scroll reveal transitions for every component
 - Automated image optimization via Cloudinary for fast loads
+![Alt Text](./images%20for%20readme/collections.png) <br> 
 
 ## 🔧 **Tech Stack**
 
