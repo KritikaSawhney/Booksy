@@ -16,19 +16,19 @@ With smooth micro-interactions, animated transitions, and gamified review flows,
 - Wishlist, favorites, and order history tracking
 - Product reviews, ratings, and search/filter functionality
 - Secure checkout with Stripe, Razorpay, and Cash on Delivery
-- Order tracking and inventory management
+- Order tracking and inventory management <br>
 ![Alt Text](./images%20for%20booksy/bookadd.png) <br> 
 
 ### 📊 Analytics & Insights
 - Admin analytics dashboard for sales, orders, and user activity
 - Interactive charts for sales, orders, and user engagement
-- Completion percentage, daily goals, and streak counters
+- Completion percentage, daily goals, and streak counters <br>
 ![Alt Text](./images%20for%20booksy/list.png) <br> 
 
 ### 💬 Community & Real-Time Chat
 - Join chat rooms to discuss books and connect with readers
 - Real-time communication powered by **Socket.io** (WebSocket protocol)
-- Email and toast notifications for instant updates
+- Email and toast notifications for instant updates <br>
 ![Alt Text](./images%20for%20booksy/chat.png) <br> 
 
 ### 👤 User Experience & Accessibility
@@ -36,7 +36,7 @@ With smooth micro-interactions, animated transitions, and gamified review flows,
 - Responsive design for all devices
 - Fully integrated dark/light mode
 - Semantic HTML and keyboard-accessible flows
-- Accessibility enhancements
+- Accessibility enhancements <br>
 ![Alt Text](./images%20for%20booksy/dashboard.png) <br> 
 
 ### 🌈 Visual Details & Performance
@@ -45,7 +45,7 @@ With smooth micro-interactions, animated transitions, and gamified review flows,
 - Cursor-following animated trail
 - Dynamic charts and heatmaps for activity
 - Slide-in/scroll reveal transitions for every component
-- Automated image optimization via Cloudinary for fast loads
+- Automated image optimization via Cloudinary for fast loads <br?
 ![Alt Text](./images%20for%20booksy/collections.png) <br> 
 
 ## 🔧 **Tech Stack**
