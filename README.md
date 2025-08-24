@@ -34,7 +34,6 @@ With smooth micro-interactions, animated transitions, and gamified review flows,
 ### 👤 User Experience & Accessibility
 - User authentication, profile management, and secure JWT login
 - Responsive design for all devices
-- Fully integrated dark/light mode
 - Semantic HTML and keyboard-accessible flows
 - Accessibility enhancements <br>
 ![Alt Text](./images%20for%20booksy/dashboard.png) <br> 
